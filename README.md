@@ -6,16 +6,16 @@ A software implementation of how an OS might schedule processes on a CPU given a
 The program will obviously need to be compiled and ran using some sort 
 When running the program, execute it with the arguments in the following general form:
 ```
-program.exe inputFileName outputFileName AlgorithmNumber timeQuantum(if applicable)
+./a.out inputFileName outputFileName AlgorithmNumber timeQuantum(if applicable)
 ```
 
 An example on Linux using the provided input/output files:
 ```
-./a.out input.txt output.txt 1
+./a.out sample_input.txt sample_outputSRTF.txt 1
 ```
 or
 ```
-./a.out input.txt output.txt 2 4
+./a.out sample_input.txt sample_outputRR4.txt 2 4
 ```
 
 #### Input/Output File
