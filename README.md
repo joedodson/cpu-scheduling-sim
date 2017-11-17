@@ -1,5 +1,5 @@
 # Process Scheduling Simulator
-A software implementation of how an OS might schedule processes on a CPU given a file of "processes." The simulator is programmed to simulate any one of four scheduling algorithms (FCFS, SRTF, RR, and PP), and output the results to a specified file.
+A software implementation of how an OS might schedule processes on a CPU given a file of "processes" designed for a class project. The simulator is programmed to simulate any one of four scheduling algorithms (FCFS, SRTF, RR, and PP), and output the results to a specified file.
 
 ## Getting Started
 
